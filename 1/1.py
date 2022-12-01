@@ -1,4 +1,11 @@
-with open("./1/input.txt", "r") as f:
+"""
+    Day one of Advent of Code 2022
+    Prompt: https://adventofcode.com/2022/day/1
+"""
+
+from pathlib import Path
+
+with open(Path(__file__).parent / "input.txt", "r") as f:
     data = f.read()
 
 split = data.split("\n\n")
