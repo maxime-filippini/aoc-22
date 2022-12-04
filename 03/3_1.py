@@ -27,5 +27,5 @@ def compute(data):
 
 
 if __name__ == "__main__":
-    assert compute(read_data(3, "test.txt")) == 157
-    print(compute(read_data(3, "input.txt")))
+    assert compute(read_data("03", "test.txt")) == 157
+    print(compute(read_data("03", "input.txt")))

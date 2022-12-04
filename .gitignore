@@ -2,5 +2,5 @@
 */__pycache__
 */input.txt
 .DS_Store
-*.pyc
+__pycache__/
 */test.txt
