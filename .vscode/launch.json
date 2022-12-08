@@ -8,7 +8,7 @@
             "name": "Python: Module",
             "type": "python",
             "request": "launch",
-            "module": "07.7_2",
+            "module": "08.8_2",
             "justMyCode": true
         }
     ]
