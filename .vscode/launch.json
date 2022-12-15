@@ -8,7 +8,7 @@
             "name": "Python: Module",
             "type": "python",
             "request": "launch",
-            "module": "14.14_2",
+            "module": "15.15_2",
             "justMyCode": true
         }
     ]
